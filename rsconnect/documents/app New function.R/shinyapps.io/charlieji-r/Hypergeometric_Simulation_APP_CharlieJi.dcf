@@ -1,0 +1,13 @@
+name: Hypergeometric_Simulation_APP_CharlieJi
+title: Hypergeometric_Simulation_APP_CharlieJi
+username:
+account: charlieji-r
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3874723
+bundleId: 4475226
+url: https://charlieji-r.shinyapps.io/Hypergeometric_Simulation_APP_CharlieJi/
+when: 1618491753.23589
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app New function April 14.R|app.R
